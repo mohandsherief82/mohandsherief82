@@ -5,20 +5,12 @@ I am a first-year engineering student focused on the intersection of high-perfor
 
 ---
 
-### 📅 My Contributions & Stats
-![Mohand's Activity Calendar](https://github-readme-stats.vercel.app/api?username=mohandsherief82&show_icons=true&theme=radical&hide_border=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohandsherief82&layout=compact&theme=radical&hide_border=true)](https://github.com/mohandsherief82)
-
----
-
 ### 🛠️ My Tech Stack
 
 **Languages:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 
 **Libraries & Tools:**
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Make](https://img.shields.io/badge/GNU%20Make-000000?style=flat-square&logo=gnu&logoColor=white)
