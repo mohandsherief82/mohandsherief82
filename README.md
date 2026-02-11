@@ -10,7 +10,7 @@ I am a first-year engineering student focused on the intersection of high-perfor
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![Java]([https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white))
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white).
 
 **Libraries & Tools:**
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Make](https://img.shields.io/badge/GNU%20Make-000000?style=flat-square&logo=gnu&logoColor=white)
@@ -24,7 +24,7 @@ I am a first-year engineering student focused on the intersection of high-perfor
 > **Tech:** Python, NumPy, Tqdm, and Pygame for the UI.
 [![View Project](https://img.shields.io/badge/View_Source-Click_Here-blue?style=flat-square&logo=github)](https://github.com/mohandsherief82/Tictactoe)
 
-#### ♟️ [C Terminal Chess Engine](https://github.com/mohandsherief82/Chess)
+#### ♟️ [Chess Engine](https://github.com/mohandsherief82/Chess)
 > A high-performance terminal chess engine built in C, focusing on efficient move generation and game logic.
 > A high-performance GUI chess enigine built in C++ and C, focusing on efficient move generation and game logic, with multiple modes(against CPU or another user).
 [![View Project](https://img.shields.io/badge/View_Source-Click_Here-blue?style=flat-square&logo=github)](https://github.com/mohandsherief82/Chess)
