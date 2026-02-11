@@ -18,7 +18,7 @@ I am a first-year engineering student focused on the intersection of high-perfor
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) 
-![CMake](https://img.shields.io/badge/GNU%20CMake-000000?style=flat-square&logo=gnu&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23064F8C.svg?style=flat-square&logo=cmake&logoColor=white)
 
 ---
 
@@ -29,9 +29,9 @@ I am a first-year engineering student focused on the intersection of high-perfor
 > **Tech:** Python, NumPy, Tqdm, and Pygame for the UI.
 [![View Project](https://img.shields.io/badge/View_Source-Click_Here-blue?style=flat-square&logo=github)](https://github.com/mohandsherief82/Tictactoe)
 
-#### ♟️ [Chess Engine](https://github.com/mohandsherief82/Chess)
-> A high-performance terminal chess engine built in C, focusing on efficient move generation and game logic.
-> A high-performance GUI chess enigine built in C++ and C, focusing on efficient move generation and game logic, with multiple modes(against CPU or another user).
+#### ♟️ [Chess Engine with Minimax](https://github.com/mohandsherief82/Chess)
+> A hybrid C/C++ engine utilizing a Minimax algorithm for AI decision-making. 
+> **Highlights:** Efficient move generation in C, Object-Oriented GUI in C++ (Qt), and Observer pattern for state synchronization.
 [![View Project](https://img.shields.io/badge/View_Source-Click_Here-blue?style=flat-square&logo=github)](https://github.com/mohandsherief82/Chess)
 
 #### 🔑 [Password Manager Website](https://github.com/mohandsherief82/Password-Manager-Web-App)
@@ -43,7 +43,7 @@ I am a first-year engineering student focused on the intersection of high-perfor
 
 ### 🔭 2026 Learning Roadmap
 - [X] **Java Development:** Learning Java for enterprise-level OOP and robust backend architecture.
-- [ ] **Advanced C++:** Deeply exploring memory management, templates, and C++20/23 features.
+- [ ] **Advanced C++:** Deeply exploring memory management, templates, and C++20/23 features(RAII, etc...).
 - [ ] **Computer Vision & AI:** Mastering **OpenCV** for image processing, **TensorFlow** for deep learning, and **NLTK** for NLP.
 - [ ] **Engineering Excellence:** Studying App Orchestration (Docker) and Software Design Patterns.
 
