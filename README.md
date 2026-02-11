@@ -4,13 +4,13 @@
 I am a first-year engineering student focused on the intersection of high-performance systems and Artificial Intelligence. I am an advocate for **Object-Oriented Programming (OOP)** and building scalable, clean code from the ground up.
 
 ---
-
 ### 🛠️ My Tech Stack
 
 **Languages:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![Java]([https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white))
 
 **Libraries & Tools:**
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Make](https://img.shields.io/badge/GNU%20Make-000000?style=flat-square&logo=gnu&logoColor=white)
@@ -26,6 +26,7 @@ I am a first-year engineering student focused on the intersection of high-perfor
 
 #### ♟️ [C Terminal Chess Engine](https://github.com/mohandsherief82/Chess)
 > A high-performance terminal chess engine built in C, focusing on efficient move generation and game logic.
+> A high-performance GUI chess enigine built in C++ and C, focusing on efficient move generation and game logic, with multiple modes(against CPU or another user).
 [![View Project](https://img.shields.io/badge/View_Source-Click_Here-blue?style=flat-square&logo=github)](https://github.com/mohandsherief82/Chess)
 
 #### 🔑 [Password Manager Website](https://github.com/mohandsherief82/Password-Manager-Web-App)
@@ -36,9 +37,9 @@ I am a first-year engineering student focused on the intersection of high-perfor
 ---
 
 ### 🔭 2026 Learning Roadmap
-- [ ] **Advanced C++:** Deeply exploring memory management, templates, and C++20/23 features for **HPC**.
+- [ ] **Advanced C++:** Deeply exploring memory management, templates, and C++20/23 features.
 - [ ] **Computer Vision & AI:** Mastering **OpenCV** for image processing, **TensorFlow** for deep learning, and **NLTK** for NLP.
-- [ ] **Java Development:** Learning Java for enterprise-level OOP and robust backend architecture.
+- [X] **Java Development:** Learning Java for enterprise-level OOP and robust backend architecture.
 - [ ] **Engineering Excellence:** Studying App Orchestration (Docker) and Software Design Patterns.
 
 ---
