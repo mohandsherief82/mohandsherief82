@@ -7,18 +7,18 @@ I am a first-year engineering student focused on the intersection of high-perfor
 ### 🛠️ My Tech Stack
 
 **Languages:**
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white&v=2)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)&nbsp;
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white&v=2)&nbsp;
 
 **Libraries & Tools:**
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) 
-![CMake](https://img.shields.io/badge/CMake-%23064F8C.svg?style=flat-square&logo=cmake&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) &nbsp;
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) &nbsp;
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) &nbsp;
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) &nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) &nbsp;
+![CMake](https://img.shields.io/badge/CMake-%23064F8C.svg?style=flat-square&logo=cmake&logoColor=white) &nbsp;
 
 ---
 
@@ -26,17 +26,17 @@ I am a first-year engineering student focused on the intersection of high-perfor
 
 #### 🤖 [Q-Learning Tic-Tac-Toe](https://github.com/mohandsherief82/Tictactoe)
 > A Reinforcement Learning agent trained using a standard reward function.  
-> **Tech:** Python, NumPy, Tqdm, and Pygame for the UI.
+> **Tech:** Python, NumPy, Tqdm, and Pygame for the UI.&nbsp;
 [![View Project](https://img.shields.io/badge/View_Source-Click_Here-blue?style=flat-square&logo=github)](https://github.com/mohandsherief82/Tictactoe)
 
 #### ♟️ [Chess Engine with Minimax](https://github.com/mohandsherief82/Chess)
 > A hybrid C/C++ engine utilizing a Minimax algorithm for AI decision-making. 
-> **Highlights:** Efficient move generation in C, Object-Oriented GUI in C++ (Qt), and Observer pattern for state synchronization.
+> **Highlights:** Efficient move generation in C, Object-Oriented GUI in C++ (Qt), and Observer pattern for state synchronization.&nbsp;
 [![View Project](https://img.shields.io/badge/View_Source-Click_Here-blue?style=flat-square&logo=github)](https://github.com/mohandsherief82/Chess)
 
 #### 🔑 [Password Manager Website](https://github.com/mohandsherief82/Password-Manager-Web-App)
 > A secure web application for credential management and user authentication.
-> **Tech:** Python, HTML, and CSS.
+> **Tech:** Python, HTML, and CSS.&nbsp;
 [![View Project](https://img.shields.io/badge/View_Source-Click_Here-blue?style=flat-square&logo=github)](https://github.com/mohandsherief82/Password-Manager-Web-App)
 
 ---
@@ -50,7 +50,11 @@ I am a first-year engineering student focused on the intersection of high-perfor
 ---
 
 ### 💻 Environment
-![Linux](https://img.shields.io/badge/Linux_OS-FCC624?style=flat-square&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Terminal](https://img.shields.io/badge/Terminal-4EAA25?style=flat-square&logo=gnumetadata&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Make](https://img.shields.io/badge/Make-000000?style=flat-square&logo=gnu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_OS-FCC624?style=flat-square&logo=linux&logoColor=black)&nbsp; 
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)&nbsp;
+![Terminal](https://img.shields.io/badge/Terminal-4EAA25?style=flat-square&logo=gnumetadata&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)&nbsp;
+![CMake](https://img.shields.io/badge/CMake-%23064F8C.svg?style=flat-square&logo=cmake&logoColor=white) &nbsp;
 
 ---
 
