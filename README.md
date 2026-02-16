@@ -34,11 +34,6 @@ I am a first-year engineering student focused on the intersection of high-perfor
 > **Highlights:** Efficient move generation in C, Object-Oriented GUI in C++ (Qt), and Observer pattern for state synchronization.&nbsp;
 [![View Project](https://img.shields.io/badge/View_Source-Click_Here-blue?style=flat-square&logo=github)](https://github.com/mohandsherief82/Chess)
 
-#### 🔑 [Password Manager Website](https://github.com/mohandsherief82/Password-Manager-Web-App)
-> A secure web application for credential management and user authentication.
-> **Tech:** Python, HTML, and CSS.&nbsp;
-[![View Project](https://img.shields.io/badge/View_Source-Click_Here-blue?style=flat-square&logo=github)](https://github.com/mohandsherief82/Password-Manager-Web-App)
-
 ---
 
 ### 🔭 2026 Learning Roadmap
