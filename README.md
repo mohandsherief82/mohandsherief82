@@ -27,11 +27,11 @@ I am a first-year engineering student focused on the intersection of high-perfor
 #### 🤖 [Q-Learning Tic-Tac-Toe](https://github.com/mohandsherief82/Tictactoe)
 > A Reinforcement Learning agent trained using a standard reward function.  
 > **Tech:** Python, NumPy, Tqdm, and Pygame for the UI.&nbsp;
-[![View Project](https://img.shields.io/badge/View_Source-Click_Here-blue?style=flat-square&logo=github)](https://github.com/mohandsherief82/Tictactoe)
+>  [![View Project](https://img.shields.io/badge/View_Source-Click_Here-blue?style=flat-square&logo=github)](https://github.com/mohandsherief82/Tictactoe)
 
 #### ♟️ [Chess Engine with Minimax](https://github.com/mohandsherief82/Chess)
-> A hybrid C/C++ engine utilizing a Minimax algorithm for AI decision-making. 
-> **Highlights:** Efficient move generation in C, Object-Oriented GUI in C++ (Qt), and Observer pattern for state synchronization.&nbsp;
+> A hybrid C/C++ engine utilizing a Minimax algorithm for AI decision-making. <br>
+> **Highlights:** Efficient move generation in C, Object-Oriented GUI in C++ (Qt), and Observer pattern for state synchronization.
 [![View Project](https://img.shields.io/badge/View_Source-Click_Here-blue?style=flat-square&logo=github)](https://github.com/mohandsherief82/Chess)
 
 ---
@@ -39,8 +39,8 @@ I am a first-year engineering student focused on the intersection of high-perfor
 ### 🔭 2026 Learning Roadmap
 - [X] **Java Development:** Learning Java for enterprise-level OOP and robust backend architecture.
 - [ ] **Advanced C++:** Deeply exploring memory management, templates, and C++20/23 features(RAII, etc...).
-- [ ] **Computer Vision & AI:** Mastering **OpenCV** for image processing, **TensorFlow** for deep learning, and **NLTK** for NLP.
-- [ ] **Engineering Excellence:** Studying App Orchestration (Docker) and Software Design Patterns.
+- [ ] **Computer Vision & AI:** Mastering **OpenCV** for image processing and **PyTorch** for deep learning.
+- [ ] **Engineering Excellence:** Studying App Orchestration (Docker/Podman) and Software Design Patterns.
 
 ---
 
