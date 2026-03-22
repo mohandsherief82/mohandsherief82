@@ -24,19 +24,21 @@ I am a first-year engineering student focused on the intersection of high-perfor
 ### 🚀 Featured Projects
 
 #### 🤖 [Q-Learning Tic-Tac-Toe](https://github.com/mohandsherief82/Tictactoe)
-> A Reinforcement Learning agent trained using a standard reward function.  
 
+>  A Reinforcement Learning agent trained using a standard reward function.  
+>
 > **Tech:** Python, NumPy, Tqdm, and Pygame for the UI. 
-
+>
 > [![View Project](https://img.shields.io/badge/View_Source-Click_Here-blue?style=flat-square&logo=github)](https://github.com/mohandsherief82/Tictactoe)
 
 #### ♟️ [Chess Engine with Minimax](https://github.com/mohandsherief82/Chess)
-> A hybrid C/C++ engine utilizing a Minimax algorithm for AI decision-making. 
 
+>  A hybrid C/C++ engine utilizing a Minimax algorithm for AI decision-making. 
+>
 > **Highlights:** Efficient move generation in C, Object-Oriented GUI in C++ (Qt), and Observer pattern for state synchronization.
- 
+> 
 > **Tech:** C/C++ and Qt for UI.
- 
+>
 > [![View Project](https://img.shields.io/badge/View_Source-Click_Here-blue?style=flat-square&logo=github)](https://github.com/mohandsherief82/Chess)
 
 ---
