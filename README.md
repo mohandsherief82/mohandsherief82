@@ -4,23 +4,20 @@
 I am a first-year engineering student focused on the intersection of high-performance systems and Artificial Intelligence. I am an advocate for **Object-Oriented Programming (OOP)** and building scalable, clean code from the ground up.
 
 ---
+
 ### 🛠️ My Tech Stack
 
 **Languages:**
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)&nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white&v=2)&nbsp;
 
-**Libraries & Tools:**
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) &nbsp;
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) &nbsp;
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) &nbsp;
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) &nbsp;
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) &nbsp;
-![Podman](https://img.shields.io/badge/podman-%23892CA0.svg?style=flat-square&logo=podman&logoColor=white) &nbsp;
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) &nbsp;
-![CMake](https://img.shields.io/badge/CMake-%23064F8C.svg?style=flat-square&logo=cmake&logoColor=white) &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,rust,bash&perline=10)](https://skill-icons-builder.vercel.app/)
+
+**Libraries & Core Tools:**
+
+[![My Skills](https://skillicons.dev/icons?i=pytorch,matlab,cmake,qt,md,git,linux,docker&perline=10)](https://skill-icons-builder.vercel.app/)
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Podman](https://img.shields.io/badge/podman-%23892CA0.svg?style=for-the-badge&logo=podman&logoColor=white)
 
 ---
 
@@ -28,33 +25,46 @@ I am a first-year engineering student focused on the intersection of high-perfor
 
 #### 🤖 [Q-Learning Tic-Tac-Toe](https://github.com/mohandsherief82/Tictactoe)
 > A Reinforcement Learning agent trained using a standard reward function.  
+
 > **Tech:** Python, NumPy, Tqdm, and Pygame for the UI. 
->  [![View Project](https://img.shields.io/badge/View_Source-Click_Here-blue?style=flat-square&logo=github)](https://github.com/mohandsherief82/Tictactoe)
+
+> [![View Project](https://img.shields.io/badge/View_Source-Click_Here-blue?style=flat-square&logo=github)](https://github.com/mohandsherief82/Tictactoe)
 
 #### ♟️ [Chess Engine with Minimax](https://github.com/mohandsherief82/Chess)
-> A hybrid C/C++ engine utilizing a Minimax algorithm for AI decision-making. <br>
+> A hybrid C/C++ engine utilizing a Minimax algorithm for AI decision-making. 
+
 > **Highlights:** Efficient move generation in C, Object-Oriented GUI in C++ (Qt), and Observer pattern for state synchronization.
-[![View Project](https://img.shields.io/badge/View_Source-Click_Here-blue?style=flat-square&logo=github)](https://github.com/mohandsherief82/Chess)
+ 
+> **Tech:** C/C++ and Qt for UI.
+ 
+> [![View Project](https://img.shields.io/badge/View_Source-Click_Here-blue?style=flat-square&logo=github)](https://github.com/mohandsherief82/Chess)
+
+---
+
+### 🌍 Open Source Journey
+
+I am currently looking for beginner-friendly C++ and Python projects to contribute to. I believe in learning by doing and am passionate about improving documentation and testing for community tools.
+* **Interested in:** High-performance computing, AI tooling, and Linux utilities.
+* **Open to:** Documentation fixes, bug triaging, and unit testing.
 
 ---
 
 ### 🔭 2026 Learning Roadmap
-- [X] **Java Development:** Learning Java for enterprise-level OOP and robust backend architecture.
+
+- [x] **Java Development:** Learning Java for enterprise-level OOP and robust backend architecture.
 - [ ] **Advanced C++:** Deeply exploring memory management, templates, and C++20/23 features (RAII, etc...).
 - [ ] **Computer Vision & AI:** Mastering **OpenCV** for image processing and **PyTorch** for deep learning.
-- [ ] **System Design & Architecture:** Studying scalable distributed systems, microservices, and high-level architectural patterns.
+- [ ] **System Design & Architecture:** Studying scalable distributed systems and microservices.
 - [ ] **Engineering Excellence:** Implementing containerization with **Docker/Podman** and mastering Software Design Patterns.
 
 ---
 
-### 💻 Environment
-![Linux](https://img.shields.io/badge/Linux_OS-FCC624?style=flat-square&logo=linux&logoColor=black)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)&nbsp;
-![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)&nbsp;
-![Terminal](https://img.shields.io/badge/Terminal-4EAA25?style=flat-square&logo=gnumetadata&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)&nbsp;
-![CMake](https://img.shields.io/badge/CMake-%23064F8C.svg?style=flat-square&logo=cmake&logoColor=white) &nbsp;
+### Environment:
+
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,github,pycharm,idea,vim,vscode&perline=10)](https://skill-icons-builder.vercel.app/)
 
 ---
 
-### 📫 Connect with me: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohand-sherief-bb4002374/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohandsherief5780@gmail.com)
+### 📫 Connect with me
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=10)](https://www.linkedin.com/in/mohand-sherief-bb4002374/)
+[![Gmail](https://skillicons.dev/icons?i=gmail&perline=10)](mailto:mohandsherief5780@gmail.com)
