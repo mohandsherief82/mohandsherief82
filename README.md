@@ -1,7 +1,8 @@
 # Hi there, I'm Mohand Sherief 👋
 
 ### 🎓 Computer & Systems Engineering Student @ Alexandria University
-I am a first-year engineering student focused on the intersection of high-performance systems and Artificial Intelligence. I am an advocate for **Object-Oriented Programming (OOP)** and building scalable, clean code from the ground up.
+
+I am a second-year engineering student passionate about the synergy between **Low-Level Systems** and **Artificial Intelligence**. My work focuses on building high-performance architectures—ranging from **OS Development** and **Edge AI** to **Physical AI** and **Computer Vision**. I am a strong advocate for **Object-Oriented Programming (OOP)**, memory safety, and engineering clean, scalable code from the metal up.
 
 ---
 
@@ -9,11 +10,11 @@ I am a first-year engineering student focused on the intersection of high-perfor
 
 **Languages:**
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,rust,bash&perline=10)](https://skill-icons-builder.vercel.app/)
+![](https://skillicons.dev/icons?i=py,c,cpp,java,rust,syntax&perline=10)
 
 **Libraries & Core Tools:**
 
-[![My Skills](https://skillicons.dev/icons?i=pytorch,matlab,cmake,qt,md,git,linux,docker&perline=10)](https://skill-icons-builder.vercel.app/)
+![](https://skillicons.dev/icons?i=pytorch,matlab,cmake,qt,md,git,linux,docker&perline=10)
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -25,7 +26,7 @@ I am a first-year engineering student focused on the intersection of high-perfor
 
 #### 🤖 [Q-Learning Tic-Tac-Toe](https://github.com/mohandsherief82/Tictactoe)
 
->  A Reinforcement Learning agent trained using a standard reward function.  
+> A Reinforcement Learning agent trained using a standard reward function.  
 >
 > **Tech:** Python, NumPy, Tqdm, and Pygame for the UI. 
 >
@@ -33,7 +34,7 @@ I am a first-year engineering student focused on the intersection of high-perfor
 
 #### ♟️ [Chess Engine with Minimax](https://github.com/mohandsherief82/Chess)
 
->  A hybrid C/C++ engine utilizing a Minimax algorithm for AI decision-making. 
+> A hybrid C/C++ engine utilizing a Minimax algorithm for AI decision-making. 
 >
 > **Highlights:** Efficient move generation in C, Object-Oriented GUI in C++ (Qt), and Observer pattern for state synchronization.
 > 
@@ -51,10 +52,16 @@ I am currently looking for beginner-friendly C++ and Python projects to contribu
 
 ---
 
+### 📊 GitHub Stats
+![Mohand's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohandsherief82&show_icons=true&theme=transparent&hide_border=true&title_color=3670A0&icon_color=ffdd54)
+
+---
+
 ### 🔭 2026 Learning Roadmap
 
 - [x] **Java Development:** Learning Java for enterprise-level OOP and robust backend architecture.
 - [ ] **Advanced C++:** Deeply exploring memory management, templates, and C++20/23 features (RAII, etc...).
+- [ ] **Systems Programming with Rust:** Master ownership, borrowing, and the "Send/Sync" traits to build memory-safe, high-concurrency systems without a garbage collector.
 - [ ] **Computer Vision & AI:** Mastering **OpenCV** for image processing and **PyTorch** for deep learning.
 - [ ] **System Design & Architecture:** Studying scalable distributed systems and microservices.
 - [ ] **Engineering Excellence:** Implementing containerization with **Docker/Podman** and mastering Software Design Patterns.
@@ -62,11 +69,10 @@ I am currently looking for beginner-friendly C++ and Python projects to contribu
 ---
 
 ### Environment:
-
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,github,pycharm,idea,vim,vscode&perline=10)](https://skill-icons-builder.vercel.app/)
+![](https://skillicons.dev/icons?i=linux,powershell,github,pycharm,idea,vim,vscode,terminator&perline=10)
 
 ---
 
-### 📫 Connect with me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=10)](https://www.linkedin.com/in/mohand-sherief-bb4002374/)
-[![Gmail](https://skillicons.dev/icons?i=gmail&perline=10)](mailto:mohandsherief5780@gmail.com)
+### 📫 Connect with me: 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mohand-sherief-bb4002374/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:mohandsherief5780@gmail.com)
