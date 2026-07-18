@@ -10,7 +10,7 @@ I am a second-year engineering student passionate about the synergy between **Lo
 
 **Languages:**
 
-![](https://skillicons.dev/icons?i=py,c,cpp,java,rust,syntax&perline=10)
+![](https://skillicons.dev/icons?i=py,c,cpp,rust,javascript,typescript,syntax&perline=10)
 
 **Libraries & Core Tools:**
 
@@ -59,7 +59,7 @@ I am currently looking for beginner-friendly C++ and Python projects to contribu
 
 ### 🔭 2026 Learning Roadmap
 
-- [x] **Java Development:** Learning Java for enterprise-level OOP and robust backend architecture.
+- [x] **Javascript & Typescript Development:** Learning javascript and typescript for fullstack development with focus on Next.js.
 - [ ] **Advanced C++:** Deeply exploring memory management, templates, and C++20/23 features (RAII, etc...).
 - [ ] **Systems Programming with Rust:** Master ownership, borrowing, and the "Send/Sync" traits to build memory-safe, high-concurrency systems without a garbage collector.
 - [ ] **Computer Vision & AI:** Mastering **OpenCV** for image processing and **PyTorch** for deep learning.
