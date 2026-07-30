@@ -14,7 +14,7 @@ I am a second-year engineering student passionate about the synergy between **Lo
 
 **Libraries & Core Tools:**
 
-![](https://skillicons.dev/icons?i=pytorch,matlab,cmake,qt,md,git,linux,docker&perline=10)
+![](https://skillicons.dev/icons?i=pytorch,opencv,matlab,cmake,qt,md,git,linux,docker,fastapi,react&perline=10)
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -24,13 +24,15 @@ I am a second-year engineering student passionate about the synergy between **Lo
 
 ### 🚀 Featured Projects
 
-#### 🤖 [Q-Learning Tic-Tac-Toe](https://github.com/mohandsherief82/Tictactoe)
+#### 🦴 [Human Bone Fracture Detection](https://github.com/mohandsherief82/Human-Bone-Fracture)
 
-> A Reinforcement Learning agent trained using a standard reward function.  
+> An end-to-end medical vision application predicting 10 bone pathologies from X-rays using a fine-tuned DenseNet121 model.
 >
-> **Tech:** Python, NumPy, Tqdm, and Pygame for the UI. 
+> **Highlights:** Two-stage fine-tuning (0.8282 Macro F1), ONNX runtime inference, type-safe frontend API generation, and Dockerized Nginx reverse-proxy.
 >
-> [![View Project](https://img.shields.io/badge/View_Source-Click_Here-blue?style=flat-square&logo=github)](https://github.com/mohandsherief82/Tictactoe)
+> **Tech:** PyTorch, FastAPI, ONNX, React, TypeScript, Docker, Nginx.
+> 
+> [![View Project](https://img.shields.io/badge/View_Source-Click_Here-blue?style=flat-square&logo=github)](https://github.com/mohandsherief82/Human-Bone-Fracture)
 
 #### ♟️ [Chess Engine with Minimax](https://github.com/mohandsherief82/Chess)
 
