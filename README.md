@@ -63,10 +63,10 @@ I am currently looking for beginner-friendly C++ and Python projects to contribu
 
 - [x] **Javascript & Typescript Development:** Learning javascript and typescript for fullstack development with focus on Next.js.
 - [ ] **Advanced C++:** Deeply exploring memory management, templates, and C++20/23 features (RAII, etc...).
-- [ ] **Systems Programming with Rust:** Master ownership, borrowing, and the "Send/Sync" traits to build memory-safe, high-concurrency systems without a garbage collector.
-- [ ] **Computer Vision & AI:** Mastering **OpenCV** for image processing and **PyTorch** for deep learning.
+- [ ] **Programming with Rust:** Master ownership, borrowing, and the "Send/Sync" traits to build memory-safe, high-concurrency systems without a garbage collector.
+- [X] **Computer Vision & AI:** Mastering **OpenCV** for image processing and **PyTorch** for deep learning.
 - [ ] **System Design & Architecture:** Studying scalable distributed systems and microservices.
-- [ ] **Engineering Excellence:** Implementing containerization with **Docker/Podman** and mastering Software Design Patterns.
+- [X] **Engineering Excellence:** Implementing containerization with **Docker/Podman** and mastering Software Design Patterns.
 
 ---
 
