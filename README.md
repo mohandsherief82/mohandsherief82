@@ -63,7 +63,11 @@ I am a second-year engineering student passionate about the synergy between **Lo
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mohandsherief82/mohandsherief82/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohandsherief82/mohandsherief82/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohandsherief82/mohandsherief82/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/mohandsherief82/mohandsherief82/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
