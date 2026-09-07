@@ -79,10 +79,6 @@ I am a second-year engineering student passionate about the synergy between **Lo
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mohandsherief82&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=mohandsherief82&theme=onedark" alt="Trophies" />
-</p>
-
 ---
 
 ### 🌍 Open Source Journey
