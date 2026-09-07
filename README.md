@@ -1,8 +1,12 @@
-# Hi there, I'm Mohand Sherief 👋
+# Hi there, I'm Mohand Sherief <img src="https://raw.githubusercontent.com/Martin3188/Martin3188/main/assets/hand-wave.gif" width="35px" height="35px" align="center">
 
 ### 🎓 Computer & Systems Engineering Student @ Alexandria University
 
-I am a second-year engineering student passionate about the synergy between **Low-Level Systems** and **Artificial Intelligence**. My work focuses on building high-performance architectures—ranging from **OS Development** and **Edge AI** to **Physical AI** and **Computer Vision**. I am a strong advocate for **Object-Oriented Programming (OOP)**, memory safety, and engineering clean, scalable code from the metal up.
+I am a second-year engineering student passionate about the synergy between **Low-Level Systems** and **Artificial Intelligence**. My work focuses on building high-performance architectures—ranging from **OS Development**, **Go Backend Systems**, and **Edge AI** to **Physical AI** and **Computer Vision**. I am a strong advocate for **Object-Oriented Programming (OOP)**, memory safety, and engineering clean, scalable code from the metal up.
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=3670A0&center=true&vCenter=true&width=600&lines=Computer+%26+Systems+Engineering+Student;Low-Level+Systems+%2B+AI;Go+%7C+C%2B%2B+%7C+Rust+%7C+Python;Building+High-Performance+Architectures" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -10,7 +14,7 @@ I am a second-year engineering student passionate about the synergy between **Lo
 
 **Languages:**
 
-![](https://skillicons.dev/icons?i=py,c,cpp,rust,javascript,typescript,syntax&perline=10)
+![](https://skillicons.dev/icons?i=py,c,cpp,rust,go,js,ts&perline=10)
 
 **Libraries & Core Tools:**
 
@@ -23,6 +27,16 @@ I am a second-year engineering student passionate about the synergy between **Lo
 ---
 
 ### 🚀 Featured Projects
+
+#### 💳 [Usage Metering & Billing System](https://github.com/mohandsherief82/Usage-Metering-Billing-Service)
+
+> An idempotent usage metering and quota enforcement engine for AI infrastructure workloads.
+>
+> **Highlights:** SQL `ON CONFLICT` deduplication, multi-tiered AI token cost rollup calculations (input, cached, reasoning, output rates), Stripe webhook handlers with audit ledger deduplication, and a Textual TUI for real-time monitoring.
+>
+> **Tech:** Python, FastAPI, SQLAlchemy, Stripe, Docker, Textual.
+>
+> [![View Project](https://img.shields.io/badge/View_Source-Click_Here-blue?style=flat-square&logo=github)](https://github.com/mohandsherief82/Usage-Metering-Billing-Service)
 
 #### 🦴 [Human Bone Fracture Detection](https://github.com/mohandsherief82/Human-Bone-Fracture)
 
@@ -40,9 +54,30 @@ I am a second-year engineering student passionate about the synergy between **Lo
 >
 > **Highlights:** Efficient move generation in C, Object-Oriented GUI in C++ (Qt), and Observer pattern for state synchronization.
 > 
-> **Tech:** C/C++ and Qt for UI.
+> **Tech:** C/C++, Qt.
 >
 > [![View Project](https://img.shields.io/badge/View_Source-Click_Here-blue?style=flat-square&logo=github)](https://github.com/mohandsherief82/Chess)
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mohandsherief82/mohandsherief82/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+### 📊 GitHub Stats & Languages
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mohandsherief82&show_icons=true&theme=tokyonight&hide_border=true" alt="Mohand's GitHub stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mohandsherief82&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=mohandsherief82&theme=onedark" alt="Trophies" />
+</p>
 
 ---
 
@@ -54,23 +89,7 @@ I am currently looking for beginner-friendly C++ and Python projects to contribu
 
 ---
 
-### 📊 GitHub Stats
-![Mohand's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohandsherief82&show_icons=true&theme=transparent&hide_border=true&title_color=3670A0&icon_color=ffdd54)
-
----
-
-### 🔭 2026 Learning Roadmap
-
-- [x] **Javascript & Typescript Development:** Learning javascript and typescript for fullstack development with focus on Next.js.
-- [ ] **Advanced C++:** Deeply exploring memory management, templates, and C++20/23 features (RAII, etc...).
-- [ ] **Programming with Rust:** Master ownership, borrowing, and the "Send/Sync" traits to build memory-safe, high-concurrency systems without a garbage collector.
-- [X] **Computer Vision & AI:** Mastering **OpenCV** for image processing and **PyTorch** for deep learning.
-- [ ] **System Design & Architecture:** Studying scalable distributed systems and microservices.
-- [X] **Engineering Excellence:** Implementing containerization with **Docker/Podman** and mastering Software Design Patterns.
-
----
-
-### Environment:
+### 💻 Environment
 ![](https://skillicons.dev/icons?i=linux,powershell,github,pycharm,idea,vim,vscode,terminator&perline=10)
 
 ---
