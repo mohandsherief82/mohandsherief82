@@ -14,7 +14,7 @@ I am a second-year engineering student passionate about the synergy between **Lo
 
 **Languages:**
 
-![](https://skillicons.dev/icons?i=py,c,cpp,rust,go,js,ts&perline=10)
+![](https://skillicons.dev/icons?i=py,c,cpp,java,rust,go,js,ts&perline=10)
 
 **Libraries & Core Tools:**
 
