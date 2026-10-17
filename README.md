@@ -83,7 +83,7 @@ I am a second-year engineering student passionate about the synergy between **Lo
 
 ### 🌍 Open Source Journey
 
-I am currently looking for beginner-friendly C++ and Python projects to contribute to. I believe in learning by doing and am passionate about improving documentation and testing for community tools.
+I am currently looking for large-scale projects to contribute to. I believe in learning by doing and am passionate about improving documentation and testing for community tools.
 * **Interested in:** High-performance computing, AI tooling, and Linux utilities.
 * **Open to:** Documentation fixes, bug triaging, and unit testing.
 
