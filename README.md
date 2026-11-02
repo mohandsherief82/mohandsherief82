@@ -5,7 +5,7 @@
 I am a second-year engineering student passionate about the synergy between **Low-Level Systems** and **Artificial Intelligence**. My work focuses on building high-performance architectures—ranging from **OS Development**, **Go Backend Systems**, and **Edge AI** to **Physical AI** and **Computer Vision**. I am a strong advocate for **Object-Oriented Programming (OOP)**, memory safety, and engineering clean, scalable code from the metal up.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=3670A0&center=true&vCenter=true&width=600&lines=Computer+%26+Systems+Engineering+Student;Low-Level+Systems+%2B+AI;Go+%7C+C%2B%2B+%7C+Rust+%7C+Python;Building+High-Performance+Architectures" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=3670A0&center=true&vCenter=true&width=600&lines=Computer+%26+Systems+Engineering+Student;AI+Engineering+%2B+Software+Builder;Go+%7C+Rust%7C+Python+%7C+Typescript+;Building+High-Performance+Intelligent+Architectures" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,11 +14,11 @@ I am a second-year engineering student passionate about the synergy between **Lo
 
 **Languages:**
 
-![](https://skillicons.dev/icons?i=py,c,cpp,java,rust,go,js,ts&perline=10)
+![](https://skillicons.dev/icons?i=py,go,rust,js,ts,cpp,c,java&perline=10)
 
 **Libraries & Core Tools:**
 
-![](https://skillicons.dev/icons?i=pytorch,opencv,matlab,cmake,qt,md,git,linux,docker,fastapi,react&perline=10)
+![](https://skillicons.dev/icons?i=git,linux,fastapi,react,pytorch,opencv,matlab,postgresql,redis,md,cmake,qt,docker&perline=10)
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -90,7 +90,7 @@ I am currently looking for large-scale projects to contribute to. I believe in l
 ---
 
 ### 💻 Environment
-![](https://skillicons.dev/icons?i=linux,powershell,github,pycharm,idea,vim,vscode,terminator&perline=10)
+![](https://skillicons.dev/icons?i=linux,powershell,vscode,github,pycharm,idea,vim,terminator&perline=10)
 
 ---
 
