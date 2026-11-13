@@ -5,7 +5,7 @@
 I am a second-year engineering student passionate about the synergy between **Low-Level Systems** and **Artificial Intelligence**. My work focuses on building high-performance architectures—ranging from **OS Development**, **Go Backend Systems**, and **Edge AI** to **Physical AI** and **Computer Vision**. I am a strong advocate for **Object-Oriented Programming (OOP)**, memory safety, and engineering clean, scalable code from the metal up.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=3670A0&center=true&vCenter=true&width=600&lines=Computer+%26+Systems+Engineering+Student;AI+Engineer+%2B+Software+Builder;Go+%7C+Rust%7C+Python+%7C+Typescript+;Building+High-Performance+Intelligent+Architectures" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=3670A0&center=true&vCenter=true&width=600&lines=Computer+%26+Systems+Engineering+Student;AI+Engineer+%2B+Software+Builder;Go+%7C+Rust+%7C+Python+%7C+Typescript+;Building+High-Performance+Intelligent+Architectures" alt="Typing SVG" />
 </p>
 
 ---
